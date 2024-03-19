@@ -43,7 +43,7 @@
             <IconStyle>
                 <scale>1</scale>
                 <Icon>
-                    <href>data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAERlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAAAIKADAAQAAAABAAAAIAAAAACshmLzAAABvElEQVRYCe1VsW6DQAw9CFKWZsuUiS3AB2ToFoZ2zt5f6dS1/Yv+RKsKtkrJBwSytUMyZaMjgb53AYpCELQlYjlLT2ef7Tvjs40QilQGVAZUBnrOgPbL+29gfwtcA3bmG2B9B16A12yv88XEiY9ABKQ1oI42JtCa2mTAxGkPwB1PnU6nK8dxovl8PtY0TXietw/DcBQEwYx60DNwD3wAnRC/Kh0Oh5+LxeJtu91G6Qlxjzra0BagTyfEN5dp5wUn91ZE2sCeAdCHvv+mJ5yQ2ra9LH95HMcJbz8cDmmSJFylTBs80ZI+AH0bSW+wYLULy7KiyWRyRZ4X6rouawcrtwRqQcq0YX3IzWOnZGz90hSAbDXXdcf5EfhwXpiLkkdQhVyyzdu00J1jmgI451PZ41NUNltuNAXAISNbLT8ve/9cFMyIYRiFzLbMBOlbKGqYpgA44QT7fLfbfZEfDAYy/7yYxOfIn4Q26/V6JBXH6Zixf196b0OGftFB9FPO9VkyoSpGMWbCim3Jaucz+L6/Z9o3m83FRjFDYxDMhJyKWFkAp6CONibQmtpkoHwYa6KX33E5CMWrDKgMdJqBb0vhLbjJP5UMAAAAAElFTkSuQmCC</href>
+                    <href>https://raw.githubusercontent.com/vdr/teamap/main/icon/white_circle.png</href>
                 </Icon>
             </IconStyle>
             <LabelStyle>
@@ -57,7 +57,7 @@
             <IconStyle>
                 <scale>1.5</scale>
                 <Icon>
-                    <href>data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAERlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAAAIKADAAQAAAABAAAAIAAAAACshmLzAAABvElEQVRYCe1VsW6DQAw9CFKWZsuUiS3AB2ToFoZ2zt5f6dS1/Yv+RKsKtkrJBwSytUMyZaMjgb53AYpCELQlYjlLT2ef7Tvjs40QilQGVAZUBnrOgPbL+29gfwtcA3bmG2B9B16A12yv88XEiY9ABKQ1oI42JtCa2mTAxGkPwB1PnU6nK8dxovl8PtY0TXietw/DcBQEwYx60DNwD3wAnRC/Kh0Oh5+LxeJtu91G6Qlxjzra0BagTyfEN5dp5wUn91ZE2sCeAdCHvv+mJ5yQ2ra9LH95HMcJbz8cDmmSJFylTBs80ZI+AH0bSW+wYLULy7KiyWRyRZ4X6rouawcrtwRqQcq0YX3IzWOnZGz90hSAbDXXdcf5EfhwXpiLkkdQhVyyzdu00J1jmgI451PZ41NUNltuNAXAISNbLT8ve/9cFMyIYRiFzLbMBOlbKGqYpgA44QT7fLfbfZEfDAYy/7yYxOfIn4Q26/V6JBXH6Zixf196b0OGftFB9FPO9VkyoSpGMWbCim3Jaucz+L6/Z9o3m83FRjFDYxDMhJyKWFkAp6CONibQmtpkoHwYa6KX33E5CMWrDKgMdJqBb0vhLbjJP5UMAAAAAElFTkSuQmCC</href>
+                    <href>https://raw.githubusercontent.com/vdr/teamap/main/icon/white_circle.png</href>
                 </Icon>
             </IconStyle>
             <LabelStyle>
@@ -83,7 +83,7 @@
                 <color>ff3c8e38</color>
                 <scale>1</scale>
                 <Icon>
-                    <href>data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAERlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAAAIKADAAQAAAABAAAAIAAAAACshmLzAAABvElEQVRYCe1VsW6DQAw9CFKWZsuUiS3AB2ToFoZ2zt5f6dS1/Yv+RKsKtkrJBwSytUMyZaMjgb53AYpCELQlYjlLT2ef7Tvjs40QilQGVAZUBnrOgPbL+29gfwtcA3bmG2B9B16A12yv88XEiY9ABKQ1oI42JtCa2mTAxGkPwB1PnU6nK8dxovl8PtY0TXietw/DcBQEwYx60DNwD3wAnRC/Kh0Oh5+LxeJtu91G6Qlxjzra0BagTyfEN5dp5wUn91ZE2sCeAdCHvv+mJ5yQ2ra9LH95HMcJbz8cDmmSJFylTBs80ZI+AH0bSW+wYLULy7KiyWRyRZ4X6rouawcrtwRqQcq0YX3IzWOnZGz90hSAbDXXdcf5EfhwXpiLkkdQhVyyzdu00J1jmgI451PZ41NUNltuNAXAISNbLT8ve/9cFMyIYRiFzLbMBOlbKGqYpgA44QT7fLfbfZEfDAYy/7yYxOfIn4Q26/V6JBXH6Zixf196b0OGftFB9FPO9VkyoSpGMWbCim3Jaucz+L6/Z9o3m83FRjFDYxDMhJyKWFkAp6CONibQmtpkoHwYa6KX33E5CMWrDKgMdJqBb0vhLbjJP5UMAAAAAElFTkSuQmCC</href>
+                    <href>https://raw.githubusercontent.com/vdr/teamap/main/icon/white_circle.png</href>
                 </Icon>
             </IconStyle>
             <LabelStyle>
@@ -98,7 +98,7 @@
                 <color>ff3c8e38</color>
                 <scale>1.5</scale>
                 <Icon>
-                    <href>data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAERlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAAAIKADAAQAAAABAAAAIAAAAACshmLzAAABvElEQVRYCe1VsW6DQAw9CFKWZsuUiS3AB2ToFoZ2zt5f6dS1/Yv+RKsKtkrJBwSytUMyZaMjgb53AYpCELQlYjlLT2ef7Tvjs40QilQGVAZUBnrOgPbL+29gfwtcA3bmG2B9B16A12yv88XEiY9ABKQ1oI42JtCa2mTAxGkPwB1PnU6nK8dxovl8PtY0TXietw/DcBQEwYx60DNwD3wAnRC/Kh0Oh5+LxeJtu91G6Qlxjzra0BagTyfEN5dp5wUn91ZE2sCeAdCHvv+mJ5yQ2ra9LH95HMcJbz8cDmmSJFylTBs80ZI+AH0bSW+wYLULy7KiyWRyRZ4X6rouawcrtwRqQcq0YX3IzWOnZGz90hSAbDXXdcf5EfhwXpiLkkdQhVyyzdu00J1jmgI451PZ41NUNltuNAXAISNbLT8ve/9cFMyIYRiFzLbMBOlbKGqYpgA44QT7fLfbfZEfDAYy/7yYxOfIn4Q26/V6JBXH6Zixf196b0OGftFB9FPO9VkyoSpGMWbCim3Jaucz+L6/Z9o3m83FRjFDYxDMhJyKWFkAp6CONibQmtpkoHwYa6KX33E5CMWrDKgMdJqBb0vhLbjJP5UMAAAAAElFTkSuQmCC</href>
+                    <href>https://raw.githubusercontent.com/vdr/teamap/main/icon/white_circle.png</href>
                 </Icon>
             </IconStyle>
             <LabelStyle>
@@ -124,7 +124,7 @@
                 <color>ff2dc0fb</color>
                 <scale>1</scale>
                 <Icon>
-                    <href>data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAERlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAAAIKADAAQAAAABAAAAIAAAAACshmLzAAABvElEQVRYCe1VsW6DQAw9CFKWZsuUiS3AB2ToFoZ2zt5f6dS1/Yv+RKsKtkrJBwSytUMyZaMjgb53AYpCELQlYjlLT2ef7Tvjs40QilQGVAZUBnrOgPbL+29gfwtcA3bmG2B9B16A12yv88XEiY9ABKQ1oI42JtCa2mTAxGkPwB1PnU6nK8dxovl8PtY0TXietw/DcBQEwYx60DNwD3wAnRC/Kh0Oh5+LxeJtu91G6Qlxjzra0BagTyfEN5dp5wUn91ZE2sCeAdCHvv+mJ5yQ2ra9LH95HMcJbz8cDmmSJFylTBs80ZI+AH0bSW+wYLULy7KiyWRyRZ4X6rouawcrtwRqQcq0YX3IzWOnZGz90hSAbDXXdcf5EfhwXpiLkkdQhVyyzdu00J1jmgI451PZ41NUNltuNAXAISNbLT8ve/9cFMyIYRiFzLbMBOlbKGqYpgA44QT7fLfbfZEfDAYy/7yYxOfIn4Q26/V6JBXH6Zixf196b0OGftFB9FPO9VkyoSpGMWbCim3Jaucz+L6/Z9o3m83FRjFDYxDMhJyKWFkAp6CONibQmtpkoHwYa6KX33E5CMWrDKgMdJqBb0vhLbjJP5UMAAAAAElFTkSuQmCC</href>
+                    <href>https://raw.githubusercontent.com/vdr/teamap/main/icon/white_circle.png</href>
                 </Icon>
             </IconStyle>
             <LabelStyle>
@@ -139,7 +139,7 @@
                 <color>ff2dc0fb</color>
                 <scale>1.5</scale>
                 <Icon>
-                    <href>data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAERlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAAAIKADAAQAAAABAAAAIAAAAACshmLzAAABvElEQVRYCe1VsW6DQAw9CFKWZsuUiS3AB2ToFoZ2zt5f6dS1/Yv+RKsKtkrJBwSytUMyZaMjgb53AYpCELQlYjlLT2ef7Tvjs40QilQGVAZUBnrOgPbL+29gfwtcA3bmG2B9B16A12yv88XEiY9ABKQ1oI42JtCa2mTAxGkPwB1PnU6nK8dxovl8PtY0TXietw/DcBQEwYx60DNwD3wAnRC/Kh0Oh5+LxeJtu91G6Qlxjzra0BagTyfEN5dp5wUn91ZE2sCeAdCHvv+mJ5yQ2ra9LH95HMcJbz8cDmmSJFylTBs80ZI+AH0bSW+wYLULy7KiyWRyRZ4X6rouawcrtwRqQcq0YX3IzWOnZGz90hSAbDXXdcf5EfhwXpiLkkdQhVyyzdu00J1jmgI451PZ41NUNltuNAXAISNbLT8ve/9cFMyIYRiFzLbMBOlbKGqYpgA44QT7fLfbfZEfDAYy/7yYxOfIn4Q26/V6JBXH6Zixf196b0OGftFB9FPO9VkyoSpGMWbCim3Jaucz+L6/Z9o3m83FRjFDYxDMhJyKWFkAp6CONibQmtpkoHwYa6KX33E5CMWrDKgMdJqBb0vhLbjJP5UMAAAAAElFTkSuQmCC</href>
+                    <href>https://raw.githubusercontent.com/vdr/teamap/main/icon/white_circle.png</href>
                 </Icon>
             </IconStyle>
             <LabelStyle>
@@ -165,7 +165,7 @@
                 <color>ffd27619</color>
                 <scale>1</scale>
                 <Icon>
-                    <href>data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAERlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAAAIKADAAQAAAABAAAAIAAAAACshmLzAAABvElEQVRYCe1VsW6DQAw9CFKWZsuUiS3AB2ToFoZ2zt5f6dS1/Yv+RKsKtkrJBwSytUMyZaMjgb53AYpCELQlYjlLT2ef7Tvjs40QilQGVAZUBnrOgPbL+29gfwtcA3bmG2B9B16A12yv88XEiY9ABKQ1oI42JtCa2mTAxGkPwB1PnU6nK8dxovl8PtY0TXietw/DcBQEwYx60DNwD3wAnRC/Kh0Oh5+LxeJtu91G6Qlxjzra0BagTyfEN5dp5wUn91ZE2sCeAdCHvv+mJ5yQ2ra9LH95HMcJbz8cDmmSJFylTBs80ZI+AH0bSW+wYLULy7KiyWRyRZ4X6rouawcrtwRqQcq0YX3IzWOnZGz90hSAbDXXdcf5EfhwXpiLkkdQhVyyzdu00J1jmgI451PZ41NUNltuNAXAISNbLT8ve/9cFMyIYRiFzLbMBOlbKGqYpgA44QT7fLfbfZEfDAYy/7yYxOfIn4Q26/V6JBXH6Zixf196b0OGftFB9FPO9VkyoSpGMWbCim3Jaucz+L6/Z9o3m83FRjFDYxDMhJyKWFkAp6CONibQmtpkoHwYa6KX33E5CMWrDKgMdJqBb0vhLbjJP5UMAAAAAElFTkSuQmCC</href>
+                    <href>https://raw.githubusercontent.com/vdr/teamap/main/icon/white_circle.png</href>
                 </Icon>
             </IconStyle>
             <LabelStyle>
@@ -180,7 +180,7 @@
                 <color>ffd27619</color>
                 <scale>1.5</scale>
                 <Icon>
-                    <href>data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAERlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAAAIKADAAQAAAABAAAAIAAAAACshmLzAAABvElEQVRYCe1VsW6DQAw9CFKWZsuUiS3AB2ToFoZ2zt5f6dS1/Yv+RKsKtkrJBwSytUMyZaMjgb53AYpCELQlYjlLT2ef7Tvjs40QilQGVAZUBnrOgPbL+29gfwtcA3bmG2B9B16A12yv88XEiY9ABKQ1oI42JtCa2mTAxGkPwB1PnU6nK8dxovl8PtY0TXietw/DcBQEwYx60DNwD3wAnRC/Kh0Oh5+LxeJtu91G6Qlxjzra0BagTyfEN5dp5wUn91ZE2sCeAdCHvv+mJ5yQ2ra9LH95HMcJbz8cDmmSJFylTBs80ZI+AH0bSW+wYLULy7KiyWRyRZ4X6rouawcrtwRqQcq0YX3IzWOnZGz90hSAbDXXdcf5EfhwXpiLkkdQhVyyzdu00J1jmgI451PZ41NUNltuNAXAISNbLT8ve/9cFMyIYRiFzLbMBOlbKGqYpgA44QT7fLfbfZEfDAYy/7yYxOfIn4Q26/V6JBXH6Zixf196b0OGftFB9FPO9VkyoSpGMWbCim3Jaucz+L6/Z9o3m83FRjFDYxDMhJyKWFkAp6CONibQmtpkoHwYa6KX33E5CMWrDKgMdJqBb0vhLbjJP5UMAAAAAElFTkSuQmCC</href>
+                    <href>https://raw.githubusercontent.com/vdr/teamap/main/icon/white_circle.png</href>
                 </Icon>
             </IconStyle>
             <LabelStyle>
@@ -206,7 +206,7 @@
                 <color>ff2f2fd3</color>
                 <scale>1</scale>
                 <Icon>
-                    <href>data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAERlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAAAIKADAAQAAAABAAAAIAAAAACshmLzAAABvElEQVRYCe1VsW6DQAw9CFKWZsuUiS3AB2ToFoZ2zt5f6dS1/Yv+RKsKtkrJBwSytUMyZaMjgb53AYpCELQlYjlLT2ef7Tvjs40QilQGVAZUBnrOgPbL+29gfwtcA3bmG2B9B16A12yv88XEiY9ABKQ1oI42JtCa2mTAxGkPwB1PnU6nK8dxovl8PtY0TXietw/DcBQEwYx60DNwD3wAnRC/Kh0Oh5+LxeJtu91G6Qlxjzra0BagTyfEN5dp5wUn91ZE2sCeAdCHvv+mJ5yQ2ra9LH95HMcJbz8cDmmSJFylTBs80ZI+AH0bSW+wYLULy7KiyWRyRZ4X6rouawcrtwRqQcq0YX3IzWOnZGz90hSAbDXXdcf5EfhwXpiLkkdQhVyyzdu00J1jmgI451PZ41NUNltuNAXAISNbLT8ve/9cFMyIYRiFzLbMBOlbKGqYpgA44QT7fLfbfZEfDAYy/7yYxOfIn4Q26/V6JBXH6Zixf196b0OGftFB9FPO9VkyoSpGMWbCim3Jaucz+L6/Z9o3m83FRjFDYxDMhJyKWFkAp6CONibQmtpkoHwYa6KX33E5CMWrDKgMdJqBb0vhLbjJP5UMAAAAAElFTkSuQmCC</href>
+                    <href>https://raw.githubusercontent.com/vdr/teamap/main/icon/white_circle.png</href>
                 </Icon>
             </IconStyle>
             <LabelStyle>
@@ -221,7 +221,7 @@
                 <color>ff2f2fd3</color>
                 <scale>1.5</scale>
                 <Icon>
-                    <href>data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAERlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAAAIKADAAQAAAABAAAAIAAAAACshmLzAAABvElEQVRYCe1VsW6DQAw9CFKWZsuUiS3AB2ToFoZ2zt5f6dS1/Yv+RKsKtkrJBwSytUMyZaMjgb53AYpCELQlYjlLT2ef7Tvjs40QilQGVAZUBnrOgPbL+29gfwtcA3bmG2B9B16A12yv88XEiY9ABKQ1oI42JtCa2mTAxGkPwB1PnU6nK8dxovl8PtY0TXietw/DcBQEwYx60DNwD3wAnRC/Kh0Oh5+LxeJtu91G6Qlxjzra0BagTyfEN5dp5wUn91ZE2sCeAdCHvv+mJ5yQ2ra9LH95HMcJbz8cDmmSJFylTBs80ZI+AH0bSW+wYLULy7KiyWRyRZ4X6rouawcrtwRqQcq0YX3IzWOnZGz90hSAbDXXdcf5EfhwXpiLkkdQhVyyzdu00J1jmgI451PZ41NUNltuNAXAISNbLT8ve/9cFMyIYRiFzLbMBOlbKGqYpgA44QT7fLfbfZEfDAYy/7yYxOfIn4Q26/V6JBXH6Zixf196b0OGftFB9FPO9VkyoSpGMWbCim3Jaucz+L6/Z9o3m83FRjFDYxDMhJyKWFkAp6CONibQmtpkoHwYa6KX33E5CMWrDKgMdJqBb0vhLbjJP5UMAAAAAElFTkSuQmCC</href>
+                    <href>https://raw.githubusercontent.com/vdr/teamap/main/icon/white_circle.png</href>
                 </Icon>
             </IconStyle>
             <LabelStyle>
@@ -247,7 +247,7 @@
                 <color>ff424242</color>
                 <scale>1</scale>
                 <Icon>
-                    <href>data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAERlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAAAIKADAAQAAAABAAAAIAAAAACshmLzAAABvElEQVRYCe1VsW6DQAw9CFKWZsuUiS3AB2ToFoZ2zt5f6dS1/Yv+RKsKtkrJBwSytUMyZaMjgb53AYpCELQlYjlLT2ef7Tvjs40QilQGVAZUBnrOgPbL+29gfwtcA3bmG2B9B16A12yv88XEiY9ABKQ1oI42JtCa2mTAxGkPwB1PnU6nK8dxovl8PtY0TXietw/DcBQEwYx60DNwD3wAnRC/Kh0Oh5+LxeJtu91G6Qlxjzra0BagTyfEN5dp5wUn91ZE2sCeAdCHvv+mJ5yQ2ra9LH95HMcJbz8cDmmSJFylTBs80ZI+AH0bSW+wYLULy7KiyWRyRZ4X6rouawcrtwRqQcq0YX3IzWOnZGz90hSAbDXXdcf5EfhwXpiLkkdQhVyyzdu00J1jmgI451PZ41NUNltuNAXAISNbLT8ve/9cFMyIYRiFzLbMBOlbKGqYpgA44QT7fLfbfZEfDAYy/7yYxOfIn4Q26/V6JBXH6Zixf196b0OGftFB9FPO9VkyoSpGMWbCim3Jaucz+L6/Z9o3m83FRjFDYxDMhJyKWFkAp6CONibQmtpkoHwYa6KX33E5CMWrDKgMdJqBb0vhLbjJP5UMAAAAAElFTkSuQmCC</href>
+                    <href>https://raw.githubusercontent.com/vdr/teamap/main/icon/white_circle.png</href>
                 </Icon>
             </IconStyle>
             <LabelStyle>
@@ -262,7 +262,7 @@
                 <color>ff424242</color>
                 <scale>1.5</scale>
                 <Icon>
-                    <href>data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAERlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAAAIKADAAQAAAABAAAAIAAAAACshmLzAAABvElEQVRYCe1VsW6DQAw9CFKWZsuUiS3AB2ToFoZ2zt5f6dS1/Yv+RKsKtkrJBwSytUMyZaMjgb53AYpCELQlYjlLT2ef7Tvjs40QilQGVAZUBnrOgPbL+29gfwtcA3bmG2B9B16A12yv88XEiY9ABKQ1oI42JtCa2mTAxGkPwB1PnU6nK8dxovl8PtY0TXietw/DcBQEwYx60DNwD3wAnRC/Kh0Oh5+LxeJtu91G6Qlxjzra0BagTyfEN5dp5wUn91ZE2sCeAdCHvv+mJ5yQ2ra9LH95HMcJbz8cDmmSJFylTBs80ZI+AH0bSW+wYLULy7KiyWRyRZ4X6rouawcrtwRqQcq0YX3IzWOnZGz90hSAbDXXdcf5EfhwXpiLkkdQhVyyzdu00J1jmgI451PZ41NUNltuNAXAISNbLT8ve/9cFMyIYRiFzLbMBOlbKGqYpgA44QT7fLfbfZEfDAYy/7yYxOfIn4Q26/V6JBXH6Zixf196b0OGftFB9FPO9VkyoSpGMWbCim3Jaucz+L6/Z9o3m83FRjFDYxDMhJyKWFkAp6CONibQmtpkoHwYa6KX33E5CMWrDKgMdJqBb0vhLbjJP5UMAAAAAElFTkSuQmCC</href>
+                    <href>https://raw.githubusercontent.com/vdr/teamap/main/icon/white_circle.png</href>
                 </Icon>
             </IconStyle>
             <LabelStyle>
@@ -288,7 +288,7 @@
                 <color>ffcf66c0</color>
                 <scale>1</scale>
                 <Icon>
-                    <href>data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAERlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAAAIKADAAQAAAABAAAAIAAAAACshmLzAAABvElEQVRYCe1VsW6DQAw9CFKWZsuUiS3AB2ToFoZ2zt5f6dS1/Yv+RKsKtkrJBwSytUMyZaMjgb53AYpCELQlYjlLT2ef7Tvjs40QilQGVAZUBnrOgPbL+29gfwtcA3bmG2B9B16A12yv88XEiY9ABKQ1oI42JtCa2mTAxGkPwB1PnU6nK8dxovl8PtY0TXietw/DcBQEwYx60DNwD3wAnRC/Kh0Oh5+LxeJtu91G6Qlxjzra0BagTyfEN5dp5wUn91ZE2sCeAdCHvv+mJ5yQ2ra9LH95HMcJbz8cDmmSJFylTBs80ZI+AH0bSW+wYLULy7KiyWRyRZ4X6rouawcrtwRqQcq0YX3IzWOnZGz90hSAbDXXdcf5EfhwXpiLkkdQhVyyzdu00J1jmgI451PZ41NUNltuNAXAISNbLT8ve/9cFMyIYRiFzLbMBOlbKGqYpgA44QT7fLfbfZEfDAYy/7yYxOfIn4Q26/V6JBXH6Zixf196b0OGftFB9FPO9VkyoSpGMWbCim3Jaucz+L6/Z9o3m83FRjFDYxDMhJyKWFkAp6CONibQmtpkoHwYa6KX33E5CMWrDKgMdJqBb0vhLbjJP5UMAAAAAElFTkSuQmCC</href>
+                    <href>https://raw.githubusercontent.com/vdr/teamap/main/icon/white_circle.png</href>
                 </Icon>
             </IconStyle>
             <LabelStyle>
@@ -303,7 +303,7 @@
                 <color>ffcf66c0</color>
                 <scale>1.5</scale>
                 <Icon>
-                    <href>data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAERlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAAAIKADAAQAAAABAAAAIAAAAACshmLzAAABvElEQVRYCe1VsW6DQAw9CFKWZsuUiS3AB2ToFoZ2zt5f6dS1/Yv+RKsKtkrJBwSytUMyZaMjgb53AYpCELQlYjlLT2ef7Tvjs40QilQGVAZUBnrOgPbL+29gfwtcA3bmG2B9B16A12yv88XEiY9ABKQ1oI42JtCa2mTAxGkPwB1PnU6nK8dxovl8PtY0TXietw/DcBQEwYx60DNwD3wAnRC/Kh0Oh5+LxeJtu91G6Qlxjzra0BagTyfEN5dp5wUn91ZE2sCeAdCHvv+mJ5yQ2ra9LH95HMcJbz8cDmmSJFylTBs80ZI+AH0bSW+wYLULy7KiyWRyRZ4X6rouawcrtwRqQcq0YX3IzWOnZGz90hSAbDXXdcf5EfhwXpiLkkdQhVyyzdu00J1jmgI451PZ41NUNltuNAXAISNbLT8ve/9cFMyIYRiFzLbMBOlbKGqYpgA44QT7fLfbfZEfDAYy/7yYxOfIn4Q26/V6JBXH6Zixf196b0OGftFB9FPO9VkyoSpGMWbCim3Jaucz+L6/Z9o3m83FRjFDYxDMhJyKWFkAp6CONibQmtpkoHwYa6KX33E5CMWrDKgMdJqBb0vhLbjJP5UMAAAAAElFTkSuQmCC</href>
+                    <href>https://raw.githubusercontent.com/vdr/teamap/main/icon/white_circle.png</href>
                 </Icon>
             </IconStyle>
             <LabelStyle>
@@ -329,41 +329,152 @@
             <name>Teas</name>
             <Folder>
                 <name>White</name>
+                <Placemark>
+                    <name>Baihao Yinzhen</name>
+                    <description><![CDATA[https://en.wikipedia.org/wiki/Baihao_Yinzhen<br>Also other grade of white tea, like BaiMuDan, and https://en.wikipedia.org/wiki/Shoumei_tea]]></description>
+                    <styleUrl>#whitestyle</styleUrl>
+                    <Point>
+                        <coordinates>120.215832,27.3743836,0</coordinates>
+                    </Point>
+                </Placemark>
+                <Placemark>
+                    <name>Bai Mu Dan</name>
+                    <description><![CDATA[https://en.wikipedia.org/wiki/Baimudan_tea<br>Famous from Gushan Mountain]]></description>
+                    <styleUrl>#whitestyle</styleUrl>
+                    <Point>
+                        <coordinates>119.378149,26.052918,0</coordinates>
+                    </Point>
+                </Placemark>
             </Folder>
             <Folder>
                 <name>Green</name>
                 <Placemark>
-                    <name>Xihu</name>
+                    <name>Xihu Longjing</name>
                     <styleUrl>#greenstyle</styleUrl>
+                    <description><![CDATA[https://en.wikipedia.org/wiki/Longjing_tea]]></description>
                     <Point>
                         <coordinates>120.13026,30.2596099,0</coordinates>
+                    </Point>
+                </Placemark>
+                <Placemark>
+                    <name>Huangshan Maofeng</name>
+                    <description>https://en.wikipedia.org/wiki/Huangshan_Maofeng</description>
+                    <styleUrl>#greenstyle</styleUrl>
+                    <Point>
+                        <coordinates>118.33866,29.7151699,0</coordinates>
+                    </Point>
+                </Placemark>
+                <Placemark>
+                    <name>Dongting Biluochun</name>
+                    <description>https://en.wikipedia.org/wiki/Biluochun</description>
+                    <styleUrl>#greenstyle</styleUrl>
+                    <Point>
+                        <coordinates>120.4906501,31.2402623,0</coordinates>
+                    </Point>
+                </Placemark>
+                <Placemark>
+                    <name>Luan Melon Seed</name>
+                    <description>https://en.wikipedia.org/wiki/Lu%27an_Melon_Seed_tea</description>
+                    <styleUrl>#greenstyle</styleUrl>
+                    <Point>
+                        <coordinates>116.5232399,31.7348799,0</coordinates>
+                    </Point>
+                </Placemark>
+                <Placemark>
+                    <name>Xinyang Maojian</name>
+                    <description>https://en.wikipedia.org/wiki/Xinyang_Maojian_tea</description>
+                    <styleUrl>#greenstyle</styleUrl>
+                    <Point>
+                        <coordinates>114.09279,32.1471399,0</coordinates>
+                    </Point>
+                </Placemark>
+                <Placemark>
+                    <name>Taiping houkui</name>
+                    <description>https://en.wikipedia.org/wiki/Taiping_houkui</description>
+                    <styleUrl>#greenstyle</styleUrl>
+                    <Point>
+                        <coordinates>118.57051,29.78028,0</coordinates>
                     </Point>
                 </Placemark>
             </Folder>
             <Folder>
                 <name>Yellow</name>
+                <Placemark>
+                    <name>Junshan Yinzhen</name>
+                    <description>https://en.wikipedia.org/wiki/Junshan_Yinzhen</description>
+                    <styleUrl>#yellowstyle</styleUrl>
+                    <Point>
+                        <coordinates>113.027612,29.2948607,0</coordinates>
+                    </Point>
+                </Placemark>
+                <Placemark>
+                    <name>Huoshan Huang Ya</name>
+                    <description>https://en.wikipedia.org/wiki/Huoshan_Huangya_tea</description>
+                    <styleUrl>#yellowstyle</styleUrl>
+                    <Point>
+                        <coordinates>118.40835,29.86254,0</coordinates>
+                    </Point>
+                </Placemark>
             </Folder>
             <Folder>
                 <name>Oolong</name>
                 <Placemark>
-                    <name>Phoenix Mountain</name>
+                    <name>Dancong Oolong</name>
                     <styleUrl>#oolongstyle</styleUrl>
+                    <description><![CDATA[Phoenix Oolong]]></description>
                     <Point>
                         <coordinates>116.609582,23.910585,0</coordinates>
                     </Point>
                 </Placemark>
                 <Placemark>
-                    <name>Anxi County</name>
+                    <name>Anxi Oolong</name>
                     <styleUrl>#oolongstyle</styleUrl>
+                    <description><![CDATA[ Notable: https://en.wikipedia.org/wiki/Tieguanyin ]]></description>
                     <Point>
                         <coordinates>118.18685,25.0554399,0</coordinates>
                     </Point>
                 </Placemark>
                 <Placemark>
-                    <name>Wuyishan</name>
+                    <name>Yancha</name>
                     <styleUrl>#oolongstyle</styleUrl>
+                    <description><![CDATA[
+                        <p>Wujisha (Wuyi Mountains) is home of <a href="https://en.wikipedia.org/wiki/Wuyi_tea">Yancha</a><br>
+                        Notable:<br>
+                        <ul>
+                            <li><a href="https://en.wikipedia.org/wiki/Da_Hong_Pao">Da Hong Pao</a></li>
+                            <li><a href="https://en.wikipedia.org/wiki/Rougui_tea">Rou Gui</a></li>
+                        </ul>
+                        </p>
+                    ]]></description>
                     <Point>
                         <coordinates>118.03548,27.7567099,0</coordinates>
+                    </Point>
+                </Placemark>
+            </Folder>
+            <Folder>
+                <name>Black</name>
+                <Placemark>
+                    <name>Lapsang Souchong</name>
+                    <description><![CDATA[https://en.wikipedia.org/wiki/Lapsang_souchong<br>from Tong Mu village]]></description>
+                    <styleUrl>#blackstyle</styleUrl>
+                    <Point>
+                        <coordinates>117.6358956,27.8072416,0</coordinates>
+                    </Point>
+                </Placemark>
+                <Placemark>
+                    <name>Jin Jung Mei</name>
+                    <description><![CDATA[https://en.wikipedia.org/wiki/Jin_Jun_Mei_tea<br>from Tong Mu village]]></description>
+                    <styleUrl>#blackstyle</styleUrl>
+                    <Point>
+                        <coordinates>117.7883575,27.8023863,0</coordinates>
+                    </Point>
+                </Placemark>
+                <Placemark>
+                    <name>Keemun</name>
+                    <description>https://en.wikipedia.org/wiki/Keemun</description>
+                    <styleUrl>#blackstyle</styleUrl>
+                    <Point>
+                        <coordinates>117.7177,29.8492599,0</coordinates>
                     </Point>
                 </Placemark>
             </Folder>
@@ -379,6 +490,22 @@
             </Folder>
             <Folder>
                 <name>Scented</name>
+                <Placemark>
+                    <name>Jasmine Dragon Pearl</name>
+                    <description>https://en.wikipedia.org/wiki/Jasmine_tea</description>
+                    <styleUrl>#scentedstyle</styleUrl>
+                    <Point>
+                        <coordinates>119.64768,27.0879699,0</coordinates>
+                    </Point>
+                </Placemark>
+                <Placemark>
+                    <name>Jasmine Flowers</name>
+                    <description>https://teajourney.pub/hengzhou-jasmines-promised-land/</description>
+                    <styleUrl>#scentedstyle</styleUrl>
+                    <Point>
+                        <coordinates>109.2659332,22.6842662,0</coordinates>
+                    </Point>
+                </Placemark>
             </Folder>
         </Folder>
         <Folder>
