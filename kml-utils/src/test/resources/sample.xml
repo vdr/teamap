@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ns:parent xmlns:ns="urn:something">
+    <child ns:id="101">
+        <name>Bob Martin</name>
+    </child>
+    <ns:child id="102">
+        <name>Bob Marley</name>
+    </ns:child>
+</ns:parent>
