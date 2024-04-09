@@ -8,6 +8,7 @@ import java.util.Optional;
 import lombok.NoArgsConstructor;
 import org.w3c.dom.Document;
 import org.w3c.dom.Node;
+import vdr.geo.xml.XmlUtils;
 
 @NoArgsConstructor(access = PRIVATE)
 public final class KmlUtils {
@@ -21,16 +22,7 @@ public final class KmlUtils {
         }
 
         return toStaticList(kml.getElementsByTagName("*")).stream()
-            .filter(node -> Objects.equals(id, idOf(node)))
+            .filter(node -> Objects.equals(id, XmlUtils.attr(node, "id")))
             .findAny();
-    }
-
-    private static String idOf(Node node) {
-        var attributes = node.getAttributes();
-        if (attributes != null && attributes.getNamedItem("id") != null) {
-            return attributes.getNamedItem("id").getNodeValue();
-        }
-
-        return null;
     }
 }

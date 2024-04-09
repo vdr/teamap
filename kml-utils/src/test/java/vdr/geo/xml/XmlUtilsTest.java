@@ -1,6 +1,6 @@
 package vdr.geo.xml;
 
-import static org.junit.jupiter.api.Assertions.assertEquals;
+import static org.assertj.core.api.Assertions.assertThat;
 
 import java.nio.file.Path;
 import java.util.List;
@@ -25,14 +25,14 @@ class XmlUtilsTest {
     @Test
     void shouldPrettyPrint() {
         String output = XmlUtils.xmlToString(XmlUtils.stringToXml(SAMPLE));
-        assertEquals(SAMPLE, output);
+        assertThat(output).isEqualTo(SAMPLE);
     }
 
     @Test
     void shouldLoadFile() {
         Path xml = TestUtils.getFile("sample.xml");
         String output = XmlUtils.xmlToString(XmlUtils.fileToXml(xml));
-        assertEquals(SAMPLE, output);
+        assertThat(output).isEqualTo(SAMPLE);
     }
 
     @Test
@@ -47,13 +47,24 @@ class XmlUtilsTest {
         Document document = XmlUtils.stringToXml(xml);
 
         var elements = XmlUtils.toStaticList(document.getElementsByTagName("*"));
-        assertEquals("a, x:b, c", toString(elements));
+        assertThat(toString(elements)).isEqualTo("a, x:b, c");
         elements = XmlUtils.toStaticList(document.getElementsByTagNameNS("urn:x", "b"));
-        assertEquals("x:b", toString(elements));
+        assertThat(toString(elements)).isEqualTo("x:b");
         elements = XmlUtils.toStaticList(document.getElementsByTagName("x:b"));
-        assertEquals("x:b", toString(elements));
+        assertThat(toString(elements)).isEqualTo("x:b");
         elements = XmlUtils.toStaticList(document.getChildNodes());
-        assertEquals("a", toString(elements));
+        assertThat(toString(elements)).isEqualTo("a");
+    }
+
+    @Test
+    void shouldFindAttribute() {
+        String xml = """
+            <a xmlns:x="urn:x" x:attr="x value" attr="default value"/>
+            """;
+        var a = XmlUtils.stringToXml(xml).getDocumentElement();
+        assertThat(XmlUtils.attr(a, "attr")).isEqualTo("default value");
+        assertThat(XmlUtils.attr(a, "x:attr")).isEqualTo("x value");
+        assertThat(XmlUtils.attr(a, "urn:x", "attr")).isEqualTo("x value");
     }
 
     private String toString(List<? extends Node> list) {

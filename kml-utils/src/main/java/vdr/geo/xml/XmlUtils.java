@@ -87,4 +87,22 @@ public final class XmlUtils {
 
         return nodes;
     }
+
+    public static String attr(Node node, String name) {
+        var attributes = node.getAttributes();
+        if (attributes != null && attributes.getNamedItem(name) != null) {
+            return attributes.getNamedItem(name).getNodeValue();
+        }
+
+        return null;
+    }
+
+    public static String attr(Node node, String ns , String name) {
+        var attributes = node.getAttributes();
+        if (attributes != null && attributes.getNamedItemNS(ns, name) != null) {
+            return attributes.getNamedItemNS(ns, name).getNodeValue();
+        }
+
+        return null;
+    }
 }
