@@ -161,7 +161,6 @@
                 <Placemark>
                     <name>Jasmine Dragon Pearl</name>
                     <description>https://en.wikipedia.org/wiki/Jasmine_tea</description>
-                    <styleUrl>#scentedstyle</styleUrl>
                     <Point>
                         <coordinates>119.64768,27.0879699,0</coordinates>
                     </Point>
@@ -169,7 +168,6 @@
                 <Placemark>
                     <name>Jasmine Flowers</name>
                     <description>https://teajourney.pub/hengzhou-jasmines-promised-land/</description>
-                    <styleUrl>#scentedstyle</styleUrl>
                     <Point>
                         <coordinates>109.2659332,22.6842662,0</coordinates>
                     </Point>

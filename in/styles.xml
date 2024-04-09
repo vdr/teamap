@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<vdr:part xmlns="http://www.opengis.net/kml/2.2" xmlns:vdr="urn:vdr:geo:kml">
-    <Style id="regionstyle">
+<vdr:fragment xmlns="http://www.opengis.net/kml/2.2" xmlns:vdr="urn:vdr:geo:kml">
+    <Style id="regionstyle" vdr:variant="tearegionstyle">
         <IconStyle>
             <href>https://raw.githubusercontent.com/vdr/teamap/main/icons/double_circle.png</href>
         </IconStyle>
@@ -9,126 +9,50 @@
             <width>1</width>
         </LineStyle>
         <PolyStyle>
-            <color>55db9834</color>
-            <fill>1</fill>
-            <outline>1</outline>
-        </PolyStyle>
-    </Style>
-    <Style id="tearegionstyle" vdr:styleUrl="#regionstyle">
-        <PolyStyle>
-            <color>550000aa</color>
+            <color vdr:matches="regionstyle">55db9834</color>
+            <color vdr:matches="tearegionstyle">550000aa</color>
             <fill>1</fill>
             <outline>1</outline>
         </PolyStyle>
     </Style>
 
-    <Style id="whitestyle-normal">
+    <Style id="whitestyle-normal" vdr:variant="whitestyle-highlight,
+                                               greenstyle-normal, greenstyle-highlight,
+                                               yellowstyle-normal, yellowstyle-highlight,
+                                               oolongstyle-normal, oolongstyle-highlight,
+                                               blackstyle-normal, blackstyle-highlight,
+                                               heichastyle-normal, heichastyle-highlight,
+                                               scentedstyle-normal, scentedstyle-highlight">
         <IconStyle>
+            <color vdr:matches="greenstyle-.*">ff3c8e38</color>
+            <color vdr:matches="yellowstyle-.*">ff2dc0fb</color>
+            <color vdr:matches="oolongstyle-.*">ffd27619</color>
+            <color vdr:matches="blackstyle-.*">ff2f2fd3</color>
+            <color vdr:matches="heichastyle-.*">ff424242</color>
+            <color vdr:matches="scentedstyle-.*">ffcf66c0</color>
             <Icon>
-                <href>https://raw.githubusercontent.com/vdr/teamap/main/icons/white_circle.png</href>
+                <href vdr:matches="whitestyle-.*">https://raw.githubusercontent.com/vdr/teamap/main/icons/white_circle.png</href>
+                <href vdr:matches="greenstyle-.*">https://raw.githubusercontent.com/vdr/teamap/main/icons/green_circle.png</href>
+                <href vdr:matches="yellowstyle-.*">https://raw.githubusercontent.com/vdr/teamap/main/icons/yellow_circle.png</href>
+                <href vdr:matches="oolongstyle-.*">https://raw.githubusercontent.com/vdr/teamap/main/icons/blue_circle.png</href>
+                <href vdr:matches="blackstyle-.*">https://raw.githubusercontent.com/vdr/teamap/main/icons/red_circle.png</href>
+                <href vdr:matches="heichastyle-.*">https://raw.githubusercontent.com/vdr/teamap/main/icons/black_circle.png</href>
+                <href vdr:matches="scentedstyle-.*">https://raw.githubusercontent.com/vdr/teamap/main/icons/purple_circle.png</href>
             </Icon>
         </IconStyle>
         <LabelStyle>
-            <scale>0</scale>
+            <scale vdr:matches=".*-highlight">0</scale>
+            <scale vdr:matches=".*-normal">1</scale>
         </LabelStyle>
         <BalloonStyle>
             <text><![CDATA[<h3>$[name]</h3><p>$[description]</p>]]></text>
         </BalloonStyle>
     </Style>
-    <Style id="whitestyle-highlight" vdr:styleUrl="#whitestyle-normal">
-        <LabelStyle>
-            <scale>1</scale>
-        </LabelStyle>
-    </Style>
     <StyleMap id="whitestyle" vdr:normal="#whitestyle-normal" vdr:highlight="#whitestyle-highlight"/>
-
-    <Style id="greenstyle-normal" vdr:styleUrl="#whitestyle-normal">
-        <IconStyle>
-            <color>ff3c8e38</color>
-            <Icon>
-                <href>https://raw.githubusercontent.com/vdr/teamap/main/icons/green_circle.png</href>
-            </Icon>
-        </IconStyle>
-    </Style>
-    <Style id="greenstyle-highlight" vdr:styleUrl="#greenstyle-normal">
-        <LabelStyle>
-            <scale>1</scale>
-        </LabelStyle>
-    </Style>
     <StyleMap id="greenstyle" vdr:normal="#greenstyle-normal" vdr:highlight="#greenstyle-highlight"/>
-
-    <Style id="yellowstyle-normal" vdr:styleUrl="#whitestyle-normal">
-        <IconStyle>
-            <color>ff2dc0fb</color>
-            <Icon>
-                <href>https://raw.githubusercontent.com/vdr/teamap/main/icons/yellow_circle.png</href>
-            </Icon>
-        </IconStyle>
-    </Style>
-    <Style id="yellowstyle-highlight" vdr:styleUrl="#greenstyle-normal">
-        <LabelStyle>
-            <scale>1</scale>
-        </LabelStyle>
-    </Style>
     <StyleMap id="yellowstyle" vdr:normal="#yellowstyle-normal" vdr:highlight="#yellowstyle-highlight"/>
-
-    <Style id="oolongstyle-normal" vdr:styleUrl="#whitestyle-normal">
-        <IconStyle>
-            <color>ffd27619</color>
-            <Icon>
-                <href>https://raw.githubusercontent.com/vdr/teamap/main/icons/blue_circle.png</href>
-            </Icon>
-        </IconStyle>
-    </Style>
-    <Style id="oolongstyle-highlight" vdr:styleUrl="#oolongstyle-normal">
-        <LabelStyle>
-            <scale>1</scale>
-        </LabelStyle>
-    </Style>
     <StyleMap id="oolongstyle" vdr:normal="#oolongstyle-normal" vdr:highlight="#oolongstyle-highlight"/>
-
-    <Style id="blackstyle-normal" vdr:styleUrl="#whitestyle-normal">
-        <IconStyle>
-            <color>ff2f2fd3</color>
-            <Icon>
-                <href>https://raw.githubusercontent.com/vdr/teamap/main/icons/red_circle.png</href>
-            </Icon>
-        </IconStyle>
-    </Style>
-    <Style id="blackstyle-highlight" vdr:styleUrl="#blackstyle-normal">
-        <LabelStyle>
-            <scale>1</scale>
-        </LabelStyle>
-    </Style>
     <StyleMap id="blackstyle" vdr:normal="#blackstyle-normal" vdr:highlight="#blackstyle-highlight"/>
-
-    <Style id="heichastyle-normal" vdr:styleUrl="#whitestyle-normal">
-        <IconStyle>
-            <color>ff424242</color>
-            <Icon>
-                <href>https://raw.githubusercontent.com/vdr/teamap/main/icons/black_circle.png</href>
-            </Icon>
-        </IconStyle>
-    </Style>
-    <Style id="heichastyle-highlight" vdr:styleUrl="#heichastyle-normal">
-        <LabelStyle>
-            <scale>1</scale>
-        </LabelStyle>
-    </Style>
     <StyleMap id="heichastyle" vdr:normal="#heichastyle-normal" vdr:highlight="#heichastyle-highlight"/>
-
-    <Style id="scentedstyle-normal" vdr:styleUrl="#whitestyle-normal">
-        <IconStyle>
-            <color>ffcf66c0</color>
-            <Icon>
-                <href>https://raw.githubusercontent.com/vdr/teamap/main/icons/purple_circle.png</href>
-            </Icon>
-        </IconStyle>
-    </Style>
-    <Style id="scentedstyle-highlight" vdr:styleUrl="#scentedstyle-normal">
-        <LabelStyle>
-            <scale>1</scale>
-        </LabelStyle>
-    </Style>
     <StyleMap id="scentedstyle" vdr:normal="#scentedstyle-normal" vdr:highlight="#scentedstyle-highlight"/>
-</vdr:part>
+</vdr:fragment>
