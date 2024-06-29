@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vdr:fragment xmlns="http://www.opengis.net/kml/2.2" xmlns:vdr="urn:vdr:geo:kml">
-    <Style id="regionstyle" vdr:variant="tearegionstyle">
+    <Style vdr:variant="regionstyle, tearegionstyle">
         <IconStyle>
             <href>https://raw.githubusercontent.com/vdr/teamap/main/icons/double_circle.png</href>
         </IconStyle>
@@ -16,13 +16,13 @@
         </PolyStyle>
     </Style>
 
-    <Style id="whitestyle-normal" vdr:variant="whitestyle-highlight,
-                                               greenstyle-normal, greenstyle-highlight,
-                                               yellowstyle-normal, yellowstyle-highlight,
-                                               oolongstyle-normal, oolongstyle-highlight,
-                                               blackstyle-normal, blackstyle-highlight,
-                                               heichastyle-normal, heichastyle-highlight,
-                                               scentedstyle-normal, scentedstyle-highlight">
+    <Style vdr:variant="whitestyle-normal, whitestyle-highlight,
+                       greenstyle-normal, greenstyle-highlight,
+                       yellowstyle-normal, yellowstyle-highlight,
+                       oolongstyle-normal, oolongstyle-highlight,
+                       blackstyle-normal, blackstyle-highlight,
+                       heichastyle-normal, heichastyle-highlight,
+                       scentedstyle-normal, scentedstyle-highlight">
         <IconStyle>
             <color vdr:matches="greenstyle-.*">ff3c8e38</color>
             <color vdr:matches="yellowstyle-.*">ff2dc0fb</color>
